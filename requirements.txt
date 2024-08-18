@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+numpy
+pymysql
+scikit-learn
+tensorflow
+keras
